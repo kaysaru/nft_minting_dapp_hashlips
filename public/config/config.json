@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x6BED18e1EF4020bb7f9cce1C8DDcd910f46aD272",
+  "SCAN_LINK": "https://goerli.etherscan.io/tx/0xbd0a5ba339c034331ffe20cc4117b1ff0795bacbc79b2693da05a1388ffccbeb",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 5
+  },
+  "NFT_NAME": "PurpleEye",
+  "SYMBOL": "PE",
+  "MAX_SUPPLY": 15,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/purpleeye-3n6vvmnrtn",
+  "SHOW_BACKGROUND": true
+}
